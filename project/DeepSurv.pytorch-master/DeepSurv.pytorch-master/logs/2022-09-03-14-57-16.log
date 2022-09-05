@@ -1,0 +1,26 @@
+2022-09-03 14:57:16,112 - utils - INFO - Running Simulated Linear(linear.ini)...
+2022-09-03 14:58:05,099 - utils - INFO - The best valid c-index: 0.7778839226150768
+2022-09-03 14:58:05,099 - utils - INFO - 
+2022-09-03 14:58:05,100 - utils - INFO - Running Simulated Nonlinear(gaussian.ini)...
+2022-09-03 14:59:23,696 - utils - INFO - The best valid c-index: 0.6496210807204803
+2022-09-03 14:59:23,696 - utils - INFO - 
+2022-09-03 14:59:23,697 - utils - INFO - Running WHAS(whas.ini)...
+2022-09-03 14:59:53,992 - utils - INFO - The best valid c-index: 0.8537025177795005
+2022-09-03 14:59:53,992 - utils - INFO - 
+2022-09-03 14:59:53,993 - utils - INFO - Running SUPPORT(support.ini)...
+2022-09-03 15:04:55,453 - utils - INFO - The best valid c-index: 0.6166049380913018
+2022-09-03 15:04:55,453 - utils - INFO - 
+2022-09-03 15:04:55,453 - utils - INFO - Running METABRIC(metabric.ini)...
+2022-09-03 15:05:03,257 - utils - INFO - The best valid c-index: 0.6372043945130657
+2022-09-03 15:05:03,257 - utils - INFO - 
+2022-09-03 15:05:03,258 - utils - INFO - Running Simulated Treatment(treatment.ini)...
+2022-09-03 15:05:39,041 - utils - INFO - The best valid c-index: 0.5647631754503002
+2022-09-03 15:05:39,042 - utils - INFO - 
+2022-09-03 15:05:39,042 - utils - INFO - Running Rotterdam & GBSG(gbsg.ini)...
+2022-09-03 15:05:51,299 - utils - INFO - The best valid c-index: 0.6716890104605026
+2022-09-03 15:05:51,299 - utils - INFO - 
+2022-09-03 15:05:51,300 - utils - INFO - +------------------+---------------------+----------+----------+----------+---------------------+------------------+
+| Simulated Linear | Simulated Nonlinear |   WHAS   | SUPPORT  | METABRIC | Simulated Treatment | Rotterdam & GBSG |
++------------------+---------------------+----------+----------+----------+---------------------+------------------+
+|     0.777884     |       0.649621      | 0.853703 | 0.616605 | 0.637204 |       0.564763      |     0.671689     |
++------------------+---------------------+----------+----------+----------+---------------------+------------------+
